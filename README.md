@@ -134,7 +134,7 @@ When the cluster is ready, you can do the following:
       e. When the notebook server provisioning is complete, click CONNECT.
       f. Click Upload to upload an existing notebook, or click New to create an empty notebook.
       
-![Kubeflow UI dashboard](https://github.umn.edu/sathe189/Trends-MarketPlace/blob/master/Screenshots/kubeflow%20UI%20dashboard.png?raw=true "Optional Title")
+![Kubeflow UI dashboard](https://github.com/MainakRoy93/Recommender-System-on-Kubernetes/blob/master/Screenshots/kubeflow%20UI%20dashboard.png?raw=true "Optional Title")
 
 #### 10. Clean up your GCP environment once the code is no longer required
 Run the following command to delete your deployment and related resources
@@ -169,7 +169,7 @@ For the purposes of the demo, we randomly choose 20 of the 1194 professional DOT
             a. This returns the best heroes played by the random set of players.
             b. Players found to similar to each player.            
             c. Hero recommendations as calculated by the Pearson Co-relation Coefficient.
-![Hero Recommendations](https://github.umn.edu/sathe189/Trends-MarketPlace/blob/master/Screenshots/2019-12-09_01h23_22.png?raw=true "Optional Title")
+![Hero Recommendations](https://github.com/MainakRoy93/Recommender-System-on-Kubernetes/blob/master/Screenshots/2019-12-09_01h23_22.png?raw=true "Optional Title")
 
       2.Team Recommendations: To calculate the best team from the available players requires the team profile to me given as an input.This can be done by resetting the default values of the dictionary ‘role_dict’.
 
@@ -177,8 +177,8 @@ For the purposes of the demo, we randomly choose 20 of the 1194 professional DOT
             b.Returns player role and heroes that they should play.    
             c.Some in-game characteristics of the selected players.   
             d.Average team in-game characteristics in the form of visualizations.
-![Team](https://github.umn.edu/sathe189/Trends-MarketPlace/blob/master/Screenshots/2019-12-09_00h59_28.png?raw=true "Optional Title")
-![Visualizations](https://github.umn.edu/sathe189/Trends-MarketPlace/blob/master/Screenshots/2019-12-09_00h58_45.png?raw=true "Optional Title")
+![Team](https://github.com/MainakRoy93/Recommender-System-on-Kubernetes/blob/master/Screenshots/2019-12-09_00h59_28.png?raw=true "Optional Title")
+![Visualizations](https://github.com/MainakRoy93/Recommender-System-on-Kubernetes/blob/master/Screenshots/2019-12-09_00h58_45.png?raw=true "Optional Title")
 ## Resources used
 1. https://www.kubeflow.org/docs/gke/gcp-e2e/
 2. https://www.kubeflow.org/docs/gke/deploy/project-setup/
