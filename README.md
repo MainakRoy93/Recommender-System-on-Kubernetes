@@ -188,7 +188,11 @@ For the purposes of the demo, we randomly choose 20 of the 1194 professional DOT
 ## Contributors
 
 [Arnav Sivaram](https://www.linkedin.com/in/arnav-sivaram/) - sivar031@umn.edu
+
 [Ashwin Sharma](https://www.linkedin.com/in/ashwinassysh/) - sharm702@umn.edu
+
 [Mainak Roy](https://www.linkedin.com/in/mainak-roy/)  - roy00083@umn.edu
+
 [Sameeksha Aithal](https://www.linkedin.com/in/sameeksha-aithal/) - aitha010@umn.edu
+
 [Sampada Sathe](https://www.linkedin.com/in/sampada-sathe/) - sathe189@umn.edu
