@@ -97,7 +97,8 @@ Install kustomize v2.0.3. See the [kustomize installation guide](https://github.
 
       j. Watch for the deployment updates in the information box at the bottom of the deployment UI.
       
-![Deploy Kubeflow cluster on GCP](https://github.umn.edu/sathe189/Trends-MarketPlace/blob/master/Screenshots/kubeflow%20deployment.png?raw=true "Optional Title")
+![Deploy Kubeflow cluster on GCP](https://github.com/MainakRoy93/Recommender-System-on-Kubernetes/tree/master/Screenshots/kubeflow%20deployment.png?raw=true "Optional Title")
+
 
 #### 7. Connect to the Kubeflow cluster
 When the cluster is ready, you can do the following:
