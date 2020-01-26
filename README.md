@@ -97,7 +97,7 @@ Install kustomize v2.0.3. See the [kustomize installation guide](https://github.
 
       j. Watch for the deployment updates in the information box at the bottom of the deployment UI.
       
-![Deploy Kubeflow cluster on GCP](https://github.com/MainakRoy93/Recommender-System-on-Kubernetes/tree/master/Screenshots/kubeflow%20deployment.png?raw=true "Optional Title")
+![Deploy Kubeflow cluster on GCP](https://github.com/MainakRoy93/Recommender-System-on-Kubernetes/blob/master/Screenshots/kubeflow%20deployment.png?raw=true "Optional Title")
 
 
 #### 7. Connect to the Kubeflow cluster
@@ -123,7 +123,7 @@ When the cluster is ready, you can do the following:
       export BUCKET_NAME=${PROJECT}-${DEPLOYMENT_NAME}-bucket
       gsutil mb -c regional -l us-central1 gs://${BUCKET_NAME}
       
-![GCP Storage Bucket](https://github.umn.edu/sathe189/Trends-MarketPlace/blob/master/Screenshots/google%20cloud%20storage.png?raw=true "Optional Title")
+![GCP Storage Bucket](https://github.com/MainakRoy93/Recommender-System-on-Kubernetes/blob/master/Screenshots/google%20cloud%20storage.png?raw=true "Optional Title")
 
 #### 9. Create a new Jupyter Notebook and deploy code in the pipeline
 
